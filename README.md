@@ -32,5 +32,6 @@ Develop own professional portfolio for Week Two's assignment.
 
 
 ### Links:
+[Deployed Application URL](https://adokoye.github.io/)
 
-[GitHub Repository URL](https://github.com/adokoye/adokoye.github.io)# adokoye.github.io
+[GitHub Repository URL](https://github.com/adokoye/adokoye.github.io)
