@@ -31,7 +31,7 @@ Develop own professional portfolio for Week Two's assignment.
 >*THEN* I am presented with a responsive layout that adapts to my viewport <br>
 
 ### Webpage Screenshot
-[![Website Screenshot] (adokoye.github.io/Develop/assets/images/adokoye.github.io.gif)
+[![Website Screenshot] (adokoye.github.io/Develop/assets/images/adokoye.github.io.gif)(https://adokoye.github.io/)
 
 
 ### Links:
