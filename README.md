@@ -30,6 +30,9 @@ Develop own professional portfolio for Week Two's assignment.
 >WHEN I resize the page or view the site on various screens and devices <br>
 >*THEN* I am presented with a responsive layout that adapts to my viewport <br>
 
+### Webpage Screenshot
+[![Website Screenshot] (adokoye.github.io/Develop/assets/images/adokoye.github.io.gif)
+
 
 ### Links:
 [Deployed Application URL](https://adokoye.github.io/)
